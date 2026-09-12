@@ -5,8 +5,8 @@ const Career = () => {
     <div className="career-section section-container" id="career">
       <div className="career-container">
         <h2>
-          My career <span>&</span>
-          <br /> experience
+          My Achievements <span>&</span>
+          <br /> Leadership
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -16,7 +16,7 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Hackathon Runner Up (2x)</h4>
-                <h5>WIE Ignite (IGDTU) & Avensis Hackformers (Microsoft)</h5>
+                <h5>WIE Ignite (IGDTU) & <br/>Avensis Hackformers (Microsoft)</h5>
               </div>
               <h3>2025</h3>
             </div>
@@ -39,7 +39,7 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Software Developer</h4>
+                <h4>Core Team </h4>
                 <h5>Microsoft Mobile Innovation Lab (JSSATE)</h5>
               </div>
               <h3>NOW</h3>
