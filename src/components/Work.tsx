@@ -26,9 +26,9 @@ const projects = [
     ],
     description:
       "Full-stack AI medical research assistant on the MERN stack with secure JWT auth. Integrates Hugging Face LLM with a Pinecone vector database for context-aware Retrieval-Augmented Generation (RAG).",
-    image: "/images/curalink.jpg",
-    github: "https://github.com/anuragg28/",
-    live: "https://github.com/anuragg28/",
+    image: "/images/curalink.png",
+    github: "https://github.com/anuragg28/Curalinkk",
+    live: "https://curalinkk-kappa.vercel.app/",
   },
   {
     num: "02",
@@ -45,9 +45,9 @@ const projects = [
     ],
     description:
       "AI platform generating detailed customer personas from minimal input via Gemini API. Includes pain-point analysis, customer query simulation, and competitor benchmarking (50% research time reduction).",
-    image: "/images/personaai.jpg",
-    github: "https://github.com/anuragg28/",
-    live: "https://github.com/anuragg28/",
+    image: "/images/personaai.png",
+    github: "https://github.com/anuragg28/PersonaAI",
+    live: "https://persona-ai-orpin.vercel.app/",
   },
   {
     num: "03",
@@ -67,9 +67,9 @@ const projects = [
     ],
     description:
       "2D virtual event platform featuring real-time chat, proximity-based video calling, and collaborative whiteboard via Socket.io, Redis, and Agora with gamified event flows.",
-    image: "/images/vaultmeet.jpg",
-    github: "https://github.com/anuragg28/",
-    live: "https://github.com/anuragg28/",
+    image: "/images/vaultmeet.png",
+    
+    live: "https://www.vaultmeet.in/",
   },
 ];
 
