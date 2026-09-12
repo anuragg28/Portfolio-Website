@@ -89,7 +89,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="mailto:anuragg2802@gmail.com?subject=Resume%20Request%20-%20Anurag%20Maurya"
+        href="https://drive.google.com/file/d/1BkevsXbncneuT4H8GW9oJNiDVNI_E9vF/view?usp=drive_link"
       >
         <HoverLinks text="RESUME" />
         <span>
